@@ -1,0 +1,6 @@
+ec2-54-190-196-56.us-west-2.compute.amazonaws.com -->  ec2-54-187-197-1.us-west-2.compute.amazonaws.com, ec2-54-186-34-77.us-west-2.compute.amazonaws.com
+ec2-54-187-197-1.us-west-2.compute.amazonaws.com -->  ec2-34-223-250-158.us-west-2.compute.amazonaws.com, ec2-54-187-121-255.us-west-2.compute.amazonaws.com
+ec2-54-186-34-77.us-west-2.compute.amazonaws.com -->  ec2-34-209-236-164.us-west-2.compute.amazonaws.com
+ec2-34-223-250-158.us-west-2.compute.amazonaws.com -->  
+ec2-54-187-121-255.us-west-2.compute.amazonaws.com -->  
+ec2-34-209-236-164.us-west-2.compute.amazonaws.com -->  

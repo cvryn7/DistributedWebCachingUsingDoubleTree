@@ -1,0 +1,5 @@
+datafiles :
+    - name: website1.html
+      istaken: 0
+    - name: website2.html
+      istaken: 0

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CacheServer/CacheServer.iml" filepath="$PROJECT_DIR$/CacheServer/CacheServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationServer/ConfigurationServer.iml" filepath="$PROJECT_DIR$/ConfigurationServer/ConfigurationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalServer/LocalServer.iml" filepath="$PROJECT_DIR$/LocalServer/LocalServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RootServer/RootServer.iml" filepath="$PROJECT_DIR$/RootServer/RootServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WWW_Using_DoubleTree.iml" filepath="$PROJECT_DIR$/WWW_Using_DoubleTree.iml" />
+    </modules>
+  </component>
+</project>
